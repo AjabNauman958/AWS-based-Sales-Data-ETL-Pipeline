@@ -12,10 +12,8 @@ This project demonstrates a production-ready ETL pipeline built on AWS for proce
 - **Monitoring & Logging:** AWS CloudWatch (Logs + Metrics)
 
 <p align="center">
-  <img src="path-to-diagram" alt="Architecture Diagram" width="600"/>
+  <img src="![Image](https://github.com/user-attachments/assets/e9353ae7-7dbf-4c8c-abdf-9cbb77fb4e0b)" alt="Architecture Diagram" width="600"/>
 </p>
-
----
 
 ## 📐 Data Model
 
@@ -31,8 +29,6 @@ This project demonstrates a production-ready ETL pipeline built on AWS for proce
 - Internet Sales
 - Reseller Sales
 
----
-
 ## 🔄 ETL Pipeline Flow
 
 1. **Ingest:** Upload raw sales CSV data to Amazon S3
@@ -41,15 +37,11 @@ This project demonstrates a production-ready ETL pipeline built on AWS for proce
 4. **Orchestrate:** Schedule and manage with AWS Step Functions
 5. **Monitor:** Track job health and performance via AWS CloudWatch
 
----
-
 ## 🏗️ 3-Tier Data Architecture
 
 - **Staging Layer:** Raw data in S3
 - **Integration Layer:** Transformed fact and dimension tables in Redshift
 - **Reporting Layer:** Optimized Redshift views for analytics consumption
-
----
 
 ## 💡 Highlights
 

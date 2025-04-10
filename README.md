@@ -12,7 +12,7 @@ This project demonstrates a production-ready ETL pipeline built on AWS for proce
 - **Monitoring & Logging:** AWS CloudWatch (Logs + Metrics)
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/e9353ae7-7dbf-4c8c-abdf-9cbb77fb4e0b)" alt="Architecture Diagram" width="600"/>
+  <img src="https://github.com/user-attachments/assets/e9353ae7-7dbf-4c8c-abdf-9cbb77fb4e0b" alt="Architecture Diagram" width="600"/>
 </p>
 
 ## 📐 Data Model
